@@ -23,7 +23,6 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    width: 25%;
 }
 
 
@@ -46,6 +45,7 @@ body {
     color: #fff;
     cursor: pointer;
     font-size: 15px;
+    margin-left: 10px;
 }
 
 #enviar:hover {
